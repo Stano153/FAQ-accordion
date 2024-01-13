@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [Here](https://stano153.github.io/product-card-html-css-responsive/)
+- Live Site URL: [Here](https://stano153.github.io/FAQ-accordion/)
 
 ### Built with
 
